@@ -1,0 +1,12 @@
+{
+  "name": "eveonlinemarketcalculator",
+  "version": "1.0.0",
+  "description": "Tool that does market calculations for Eve Online",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc app.ts && node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
